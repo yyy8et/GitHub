@@ -6,5 +6,10 @@
     "editor.dropIntoEditor.showDropSelector": "never",
     "editor.experimental.preferTreeSitter": [
         "typescript"
+    ],
+    "search.useGlobalIgnoreFiles": true,
+    "search.useIgnoreFiles": true,
+    "python.autoComplete.extraPaths": [
+        python
     ]
 }
